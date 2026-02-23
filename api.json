@@ -1,5 +1,4 @@
 {
-  "wallpaper": "",
   "sites": [
     {
       "key": "360",
@@ -11,6 +10,11 @@
       "filterable": 1
     }
   ],
-  "lives": [],
-  "flags": []
+  "flags": [
+    "youku",
+    "qq",
+    "iqiyi",
+    "mgtv",
+    "bilibili"
+  ]
 }
