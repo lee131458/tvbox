@@ -10,11 +10,6 @@
       "filterable": 1
     }
   ],
-  "flags": [
-    "youku",
-    "qq",
-    "iqiyi",
-    "mgtv",
-    "bilibili"
-  ]
+  "lives": [],
+  "flags": []
 }
