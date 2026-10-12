@@ -11,9 +11,9 @@
     },
     {
       "key": "ruyi",
-      "name": "量子|点播",
+      "name": "ikun|资源",
       "type": 1,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/",
+      "api": "https://ikunzyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
