@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "360",
-      "name": "高速|360",
+      "name": "360|点播",
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod/",
       "searchable": 1,
@@ -11,9 +11,18 @@
     },
     {
       "key": "ruyi",
-      "name": "ikun|资源",
+      "name": "ikun|点播",
       "type": 1,
       "api": "https://ikunzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "ruyi",
+      "name": "如意|点播",
+      "type": 1,
+      "api": "https://cj.rycjapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
